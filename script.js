@@ -7,7 +7,7 @@ let animationMenu = bodymovin.loadAnimation({
   renderer: "svg",
   loop: false,
   autoplay: false,
-  path: "assets/Explore.json"
+  path: "https://raw.githubusercontent.com/francesco-puppo/SVG-animation-test/main/assets/Explore.json"
 });
 
 var directionMenu = 1;
